@@ -1,0 +1,17 @@
+<!DOCTYPE HTML>
+<html>
+<body>
+  <p>Header...</p>
+
+  <script>
+    alert('Goodbye Someone !')
+
+  </script>
+
+ 
+  <p>...Footer</p>
+
+ 
+
+</body>
+</html>
